@@ -47,8 +47,9 @@ This project analyzes sales data using Microsoft Excel to identify business tren
 
 📷 Dashboard Preview
 
-"Dashboard" (images/Visual Image Sales perfomance Dashbord.png)
-"Analysis"  (images/Sales performance Analysis Screen Shoot.png)
+Dashboard: images/Visual Image Sales perfomance Dashbord.png
+
+Analysis :  images/Sales performance Analysis Screen Shoot.png
 
 
 📌 Conclusion
