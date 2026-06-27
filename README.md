@@ -2,7 +2,7 @@
 
 Mathew Adewunmi
 
----
+
 
 📌 Project Overview
 
@@ -17,7 +17,7 @@ This project analyzes sales data using Microsoft Excel to identify business tren
 - Understand monthly revenue trends
 - Discover business patterns from data
 
----
+
 
 🛠 Tools Used
 
@@ -26,7 +26,6 @@ This project analyzes sales data using Microsoft Excel to identify business tren
 - Charts & Graphs
 - Data Cleaning Techniques
 
----
 
 📊 Key Insights
 
@@ -44,23 +43,23 @@ This project analyzes sales data using Microsoft Excel to identify business tren
 - Sales dashboard file
 - Visual charts and screenshots
 
----
+
 
 📷 Dashboard Preview
 
 "Dashboard" (images/Visual Image Sales perfomance Dashbord.png)
-"Analysis
+"Analysis"  (images/Sales performance Analysis Screen Shoot.png)
 
----
 
 📌 Conclusion
 
 This project demonstrates my ability to clean, analyze, and visualize data using Excel to generate actionable business insights.
 
----
+
 
 📬 Contact
 
 - LinkedIn: https://linkedin.com/in/mathewadewunmi
-- GitHub: https://github.com/YOUR-USERNAME
-- Email: your email here
+- GitHub: https://github.com/Lordgift2
+- Email: adewunmimathew@gmail.com
+  
